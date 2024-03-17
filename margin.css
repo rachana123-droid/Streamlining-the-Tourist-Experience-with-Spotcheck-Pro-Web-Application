@@ -1,0 +1,22 @@
+h1,h4 {
+    color:blueviolet;
+    font-style: italic;
+}
+input {
+    height:15px;
+    border:0lvh;
+    border-color: crimson;
+}
+border {
+    background-color: chocolate;
+    height: 70px;
+    width: 60px;
+}
+p {
+    margin-left:10px;
+    margin-bottom:15px;
+    margin-right: 20px;
+    margin-top: 15px;
+    border: 0cqi;
+    background-color: darkorange;
+}
